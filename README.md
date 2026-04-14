@@ -6,11 +6,11 @@ This repository is the official PyTorch implementation of <b>LaueRL</b>: a reinf
 <img src="./figures/schematic.png"  width="100%" alt="Agent-environment interaction">
 </p>
 
-The original work can be found on **LINK TO ARXIV TO BE UPDATED**[1].
+The original work can be found on **[arxiv](https://arxiv.org/abs/2604.11773)**[1].
 
 The RL framework is based on model-free off-policy algorithms <a href="https://github.com/XuGW-Kevin/DrM">DrM</a>[2] and <a href="https://github.com/denisyarats/pytorch_sac">SAC</a>[3] with pixel observations.
 
-[1] J. Oppliger, et al., "Autonomous Diffractometry Enabled by Visual Reinforcement Learning" (2026)\
+[1] J. Oppliger, et al., "Autonomous Diffractometry Enabled by Visual Reinforcement Learning", arXiv:2604.11773 (2026)\
 [2] G. Xu, et al.,"DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization", The Twelfth International Conference on Learning Representations (2024)\
 [3] D. Yarats, and I. Kostrikov, "Soft Actor-Critic (SAC) implementation in PyTorch", GitHub (2020)
 
